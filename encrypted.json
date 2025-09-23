@@ -1,16 +1,10 @@
 {
     "users": [
         {
-            "username": "ABICKzcyOjE7d2c=",
-            "key_hash": "YXl5cmsgKGJ8ejFzd3JuKX90NnQsYnwnYXVyKW58LHJicn83KiU0I3t7YS56ImUlLzIqcWt5ISptdXZ8NXQoYA==",
-            "device_id": "Fig4DTc=",
-            "expiry": "aXp6fGVzeWd8eg=="
-        },
-        {
-            "username": "PjQ6",
-            "key_hash": "OXV6JjJyfDZ6JWd5JSk+f3t3MHl9Y3gnanBwLjp+dyAxeHs1endlI3d4bS97ImIlL2x7IWZ4dHthLHYmYCd2ZQ==",
-            "device_id": "Pzgl",
-            "expiry": "aXp6fGVyf2B5eg=="
+            "username": "ABICKzcyOjE7",
+            "key_hash": "Pi53dzFzfjV4dTZ0dCpgKC19a3d/Nnh7MyJzKGB7f3RrcX1ifXdmJ3VzbygsJmZxemN8cTAnenM9LC10a3l6Zw==",
+            "device_id": "an5+dGUTAGQNAg0=",
+            "expiry": "aXV+fGVzeWZ7eg=="
         }
     ]
 }
