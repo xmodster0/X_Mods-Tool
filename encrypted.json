@@ -5,6 +5,12 @@
             "key_hash": "aXUpIDd0em0rcTclcH1vLCx0MHZ6NysmMXBxemx7e3Bkc3ZheHYwcnMuPC8sJmR5K2MtcGBzdH5vLHgna3J7bQ==",
             "device_id": "an5+dGUTAGQNAg0=",
             "expiry": "aXp6fGV0fmN+cA=="
+        },
+        {
+            "username": "ACAgNyA1OTE=",
+            "key_hash": "Pi53dzFzfjV4dTZ0dCpgKC19a3d/Nnh7MyJzKGB7f3RrcX1ifXdmJ3VzbygsJmZxemN8cTAnenM9LC10a3l6Zw==",
+            "device_id": "an5+dGUTAGQNAg0=",
+            "expiry": "aXp6fGV0fm16cw=="
         }
     ]
 }
