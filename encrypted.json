@@ -1,22 +1,16 @@
 {
     "users": [
         {
-            "username": "ACAgICA1KyZ4",
-            "key_hash": "Pi53dzFzfjV4dTZ0dCpgKC19a3d/Nnh7MyJzKGB7f3RrcX1ifXdmJ3VzbygsJmZxemN8cTAnenM9LC10a3l6Zw==",
-            "device_id": "an5+dGUTAGQNAg==",
-            "expiry": "aXp6fGVzeWN9cw=="
+            "username": "ABICKzcyOjE7d2c=",
+            "key_hash": "YXl5cmsgKGJ8ejFzd3JuKX90NnQsYnwnYXVyKW58LHJicn83KiU0I3t7YS56ImUlLzIqcWt5ISptdXZ8NXQoYA==",
+            "device_id": "Fig4DTc=",
+            "expiry": "aXp6fGVzeWd8eg=="
         },
         {
-            "username": "ACAgICA1KyZ7",
-            "key_hash": "aS9/JzF5LG0se2ogInI7LHh1NnEsZHlxYnl3L2kreCdic3hsenZkIHJ6b3wuJTclKmItejElIipue3wmZXcvNg==",
-            "device_id": "an5+dGUTAGQNAg0=",
-            "expiry": "aXp6fGVzdmd/dQ=="
-        },
-        {
-            "username": "ACAgICA1KyZ6",
-            "key_hash": "b3l6cTF4dzEsJ2NyJn5teSp0NiB/Z3B1NHV2fmB9enBneH8wfnFrJ3p7YX13dmsge2EvdTcie3w5fHdyanR+MQ==",
-            "device_id": "an5+dGUTAGQN",
-            "expiry": "aXp6fGVzdm1+eg=="
+            "username": "PjQ6",
+            "key_hash": "OXV6JjJyfDZ6JWd5JSk+f3t3MHl9Y3gnanBwLjp+dyAxeHs1endlI3d4bS97ImIlL2x7IWZ4dHthLHYmYCd2ZQ==",
+            "device_id": "Pzgl",
+            "expiry": "aXp6fGVyf2B5eg=="
         }
     ]
 }
