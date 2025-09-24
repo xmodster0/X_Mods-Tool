@@ -35,6 +35,12 @@
             "key_hash": "Oyl4dDEkL2R7cDR2dnk5fXpyZyAsNn8mNnF7L2x/LHVndX4yeyZhciZ5YXR+cDZ0ezF5ITdwdnJtKH1wNXV7NQ==",
             "device_id": "an5+dGUTAGQNAg0=",
             "expiry": "aXp6fGRxfGV/cQ=="
+        },
+        {
+            "username": "AgwJFhIP",
+            "key_hash": "O34ucmBzfGZ5c2N2cyhrfHolN3d2ZXEiYSRzKW16LXQ1eChmfXJjJScvaCx/dWsleGF6JWZzIX1rf3wgY3N9Nw==",
+            "device_id": "an5+dGUTAGQNAg0=",
+            "expiry": "aXp6fGRxf21xeg=="
         }
     ]
 }
