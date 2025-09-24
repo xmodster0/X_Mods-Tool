@@ -1,46 +1,10 @@
 {
     "users": [
         {
-            "username": "ACAgICA1KyY=",
-            "key_hash": "aXUpIDd0em0rcTclcH1vLCx0MHZ6NysmMXBxemx7e3Bkc3ZheHYwcnMuPC8sJmR5K2MtcGBzdH5vLHgna3J7bQ==",
+            "username": "AAAAAAAVCwY=",
+            "key_hash": "bS4udmdxfmErdGZxdHpvLy5wNXIoYisgZnkieWt9eHRjJHhsKnEzdSF6aSgsITcjd2IvcmR4JX89Ky4iYid8ZQ==",
             "device_id": "an5+dGUTAGQNAg0=",
-            "expiry": "aXp6fGV0fmN+cA=="
-        },
-        {
-            "username": "ACAgNyA1OTE=",
-            "key_hash": "Pi53dzFzfjV4dTZ0dCpgKC19a3d/Nnh7MyJzKGB7f3RrcX1ifXdmJ3VzbygsJmZxemN8cTAnenM9LC10a3l6Zw==",
-            "device_id": "an5+dGUTAGQNAg0=",
-            "expiry": "aXp6fGV0fm16cw=="
-        },
-        {
-            "username": "AiwpNjIv",
-            "key_hash": "YXV7ImRxd2MrIGRxdXxveCp9ankoZ3wmNyJxfGwuLXEwd3ZtfXNlcXt4b3x2czF1KjZ/IjRydCg+eiwnYHJ+Ng==",
-            "device_id": "an5+dGUTAGQNAg0=",
-            "expiry": "aXp6fGV0f2V/cQ=="
-        },
-        {
-            "username": "AiwpNjIv",
-            "key_hash": "YCx/JzEieDItemB3ei5vKXZ2Y3h3YCslZ3NxL2B4K3JkIChte3QxcSV7Oy9+dDAlfmYvIWRwdn1rKXZ9MCArZA==",
-            "device_id": "an5+dGUTAGQNAg0=",
-            "expiry": "aXp6fGV0f2xxdA=="
-        },
-        {
-            "username": "GBUQCRwFHQAMEQ==",
-            "key_hash": "bnR4fGRyfmIsdGcke35ufHdzNSQvYn4iaiV3fmEpeSY1eStgcHI3IHtzbSwpJ2QkeWR5JTRzd3w5e352ZyV3Yw==",
-            "device_id": "an5+dGUTAGQNAg0=",
-            "expiry": "aXV+fGV4eGJ6dw=="
-        },
-        {
-            "username": "YHQ=",
-            "key_hash": "Oyl4dDEkL2R7cDR2dnk5fXpyZyAsNn8mNnF7L2x/LHVndX4yeyZhciZ5YXR+cDZ0ezF5ITdwdnJtKH1wNXV7NQ==",
-            "device_id": "an5+dGUTAGQNAg0=",
-            "expiry": "aXp6fGRxfGV/cQ=="
-        },
-        {
-            "username": "AgwJFhIP",
-            "key_hash": "O34ucmBzfGZ5c2N2cyhrfHolN3d2ZXEiYSRzKW16LXQ1eChmfXJjJScvaCx/dWsleGF6JWZzIX1rf3wgY3N9Nw==",
-            "device_id": "an5+dGUTAGQNAg0=",
-            "expiry": "aXp6fGRxf21xeg=="
+            "expiry": "aXp6fGRxfG19eg=="
         }
     ]
 }
